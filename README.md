@@ -43,6 +43,6 @@ I regularly add new LeetCode solutions as I solve more problems.
 
 ## Author
 
-Hemanth
+**Hemanth**
 
-LeetCode: hemanth_013
+🔗 **LeetCode:** [hemanth_1304](https://leetcode.com/u/hemanth_1304/)
